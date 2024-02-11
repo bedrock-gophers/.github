@@ -22,7 +22,7 @@ Welcome to the Bedrock Gophers organization! We are dedicated to creating easy-t
 
 ## Getting Started
 
-To start using our libraries, simply use `go get github.com/bedrock-gohpers/x`, x being the name of the desired library and follow the instructions provided in the README file. Each library comes with comprehensive documentation and examples to help you get up and running quickly.
+To start using our libraries, simply use `go get github.com/bedrock-gophers/x`, x being the name of the desired library and follow the instructions provided in the README file. Each library comes with comprehensive documentation and examples to help you get up and running quickly.
 
 ## Contributing
 
