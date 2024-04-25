@@ -4,9 +4,9 @@ Welcome to the Bedrock Gophers organization! We are dedicated to creating easy-t
 
 ## Libraries
 
-### 1. Packethandler
+### 1. Intercept
 
-**Description:** Packethandler is a library designed to simplify the handling of player packets within a Minecraft server. It provides an intuitive interface for intercepting, inspecting, and manipulating packets sent and received by players.
+**Description:** Intercept is a library designed to simplify the handling of player packets within a Minecraft server. It provides an intuitive interface for intercepting, inspecting, and manipulating packets sent and received by players.
 
 ### 2. Living
 
