@@ -22,6 +22,9 @@ You may join our discord community here: https://discord.gg/A5y2ugv2s4
 
 **Description:** Inv provides an implementation of a fake-inventory system for Minecraft servers. It allows developers to create custom inventories with arbitrary contents and behaviors, enabling the creation of unique gameplay mechanics and user interfaces.
 
+### 5. Tebex
+**Description:** Tebex is a library designed for Dragonfly servers, facilitating integration with the Tebex platform for managing online stores. With Tebex, you can seamlessly connect your Dragonfly server with your Tebex store.
+
 ## Getting Started
 
 To start using our libraries, simply use `go get github.com/bedrock-gophers/x`, x being the name of the desired library and follow the instructions provided in the README file. Each library comes with comprehensive documentation and examples to help you get up and running quickly.
